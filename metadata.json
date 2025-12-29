@@ -1,0 +1,7 @@
+{
+  "name": "MapPro Business Extractor",
+  "description": "A powerful tool to extract business profiles, contact details, and website information from Google Maps using Gemini's Maps Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
